@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @vivek849<br>👀 I’m interested in machine learning<br>🌱 I’m currently learning DL<br> 💞️ I’m looking to collaborate on ...<br> 📫 How to reach me vkch849@gmail.com<br><br>
+👋 Hi, I’m @vivek849<br>👀 I’m interested in machine learning<br>🌱 I’m currently learning DL<br> 📫 How to reach me vkch849@gmail.com<br><br>
 
 
 ## 🌐 Socials:
